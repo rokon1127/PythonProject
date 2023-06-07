@@ -36,3 +36,5 @@ elif sub1_number + sub2_number + sub3_number >210:
 else:
     print("Sorry You are Fail")
 print("Your Total Number: ", sub1_number + sub2_number + sub3_number)
+
+print("===================ThankYou======================================")
